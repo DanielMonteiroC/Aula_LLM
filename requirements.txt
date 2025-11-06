@@ -1,0 +1,7 @@
+python-dotenv
+openai
+anthropic
+google-generativeai
+xai-sdk
+groq
+ollama
